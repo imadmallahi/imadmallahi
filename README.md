@@ -62,9 +62,8 @@
 # 🐍 Contribution Snake (Animated)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/imadmallahi/imadmallahi/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/DenverCoder1/github-readme-snake/raw/main/github-contribution-grid-snake.svg"/>
 </p>
-
 ---
 
 # 📬 Contact
