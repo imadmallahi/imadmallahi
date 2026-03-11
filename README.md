@@ -23,10 +23,21 @@
 
 # 🛠 Tech Stack
 
+# 🛠 Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,bootstrap,docker,git,linux,mysql,postgres,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,spring,angular,react,jsf,swagger,docker,git,linux,mysql,postgres,sqlserver,oracle,mongodb,vscode,intellij,eclipse,jenkins,kafka,abbYY,junit,postman,swagger"/>
 </p>
 
+<p align="center">
+<em>Langages : Java, Python, JavaScript, TypeScript, C++</em><br>
+<em>Technologies Web : Spring, EJB, JSF, Swagger, Angular, React</em><br>
+<em>DevOps & Cloud : GitLab CI, Jenkins, Docker, Wildfly, WebSphere, JFROG</em><br>
+<em>Tests & Qualité : JUnit 5, Mockito, JMeter, SonarQube</em><br>
+<em>Bases de données : SQL Server, MySQL, Oracle, MongoDB</em><br>
+<em>Environnements : Eclipse, IntelliJ, VSCode, Postman</em><br>
+<em>Conception & Méthodologie : UML, Merise, POO, Scrum, Kanban</em>
+</p>
 ---
 
 # 💼 Professional Experience
