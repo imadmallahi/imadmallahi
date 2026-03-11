@@ -23,8 +23,6 @@
 
 # 🛠 Tech Stack
 
-# 🛠 Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,spring,angular,react,docker,git,linux,mysql,postgres,sqlserver,mongodb,vscode,eclipse,jenkins,kafka,postman"/>
 </p>
@@ -38,7 +36,6 @@
 <em>Environnements : Eclipse, IntelliJ, VSCode, Postman</em><br>
 <em>Conception & Méthodologie : UML, Merise, POO, Scrum, Kanban</em>
 </p>
----
 
 # 💼 Professional Experience
 
