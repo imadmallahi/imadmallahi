@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2BBC8A&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AC+Une+production+Java+%7C+Spring+Boot+%7C+Angular;6%2B+ans+%C3%A0+construire+des+applications+scalables;De+Casablanca+%C3%A0+Paris%2C+en+passant+par+Bruxelles;Architecture+hexagonale%2C+microservices%2C+clean+code;Now+playing+%3A+BNP+Paribas+%E2%80%94+Paris"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2BBC8A&center=true&vCenter=true&width=700&lines=%F0%9F%8E%AC+Une+production+Java+%7C+Spring+Boot+%7C+Angular;6%2B+ans+%C3%A0+construire+des+applications+scalables;De+Casablanca+%C3%A0+Paris%2C+en+passant+par+Bruxelles;AArchitecture+hexagonale%2C+microservices%2C+clean+code;Now+playing+%3A+BNP+Paribas+%E2%80%94+Paris"/>
 </p>
 
 <p align="center">
