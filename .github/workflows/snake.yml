@@ -4,16 +4,25 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: imadmallahi
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.gif?color_snake=#2bbc8a&color_dots=#0f2027,#164e3f,#1f8a6a,#2bbc8a,#7ff0cd
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
